@@ -8,6 +8,19 @@ public class BowlingGame2Test {
   public void lisaTesFours(){
 
   }
+  @Test
+  public void lisaTesFive(){
+
+  }
+  @Test
+  public void lisaTestSix(){
+
+  }
+  @Test
+  public void lisaTestSeven(){
+
+  }
+
 
 
 }
